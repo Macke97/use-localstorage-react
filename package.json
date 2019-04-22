@@ -1,6 +1,6 @@
 {
-  "name": "use-localstorage-hook",
-  "version": "0.1.0",
+  "name": "react-use-localstorage",
+  "version": "1.0.0",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": [

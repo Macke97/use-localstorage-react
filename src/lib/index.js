@@ -1,2 +1,2 @@
-import TextInput from "./TextInput";
-export { TextInput };
+import useLocalStorage from "./useLocalStorage";
+export { useLocalStorage as default };
