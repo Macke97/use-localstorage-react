@@ -1,6 +1,9 @@
 # use-localstorage-react
 A custom hook to save state to localstorage!
 
+# Demo
+[Sandbox Demo](https://codesandbox.io/embed/88kqoxynpl)
+
 # Usage
 
 ### Import it
