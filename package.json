@@ -22,5 +22,11 @@
     "react-dom": "^16.8.6",
     "react-scripts": "^2.1.8",
     "rimraf": "^2.6.3"
-  }
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
