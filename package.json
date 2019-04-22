@@ -1,11 +1,19 @@
 {
   "name": "use-localstorage-react",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": [
     "dist"
   ],
+  "keywords": [
+    "react hook",
+    "hooks",
+    "use localstorage",
+    "localstorage hook",
+    "localstorage react"
+  ],
+  "license": "MIT",
   "scripts": {
     "start": "react-scripts start",
     "build-examples": "react-scripts build",
